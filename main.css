@@ -1,0 +1,39 @@
+﻿p,h1,h2
+{
+	text-align: center;
+	color:red;
+
+}
+
+
+
+body
+{
+	background-color: silver;
+	opacity: 1;
+}
+
+div
+{
+	height: 6000px;
+	width: 200px;
+	float: left;
+	padding: 5px;
+	line-height: 30px;
+}
+
+footer
+{
+	text-align: center;
+	
+}
+
+img
+{
+	margin-right: 200px;
+}
+
+header
+{
+	text-align: center;
+}

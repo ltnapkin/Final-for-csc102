@@ -1,0 +1,28 @@
+﻿
+
+
+nav {
+    
+    border: double;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 5px;
+    margin: 5px;
+}
+
+ul li a {
+    color: aliceblue;
+    border: double;
+    border-radius: 6px;
+    text-transform: uppercase;
+}
+
+    ul li a:hover {
+        color: black;
+        background-color: cornsilk;
+        transition: 1s;
+    }
+
+
